@@ -1,4 +1,4 @@
-# Preparing for the OOP exam  
+# Preparing for the BAP exam  
 Reading from a file and writing to a file + checking the correctness of the data.  
 The triangle problem.  
 
