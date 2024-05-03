@@ -1,0 +1,12 @@
+﻿  Source.c
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(22,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(30,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(87,42): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(87,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(92,31): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(92,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(93,32): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(93,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(94,31): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\otter\VSProject\ExamBAPTriangles\ExamBAPTriangles\Source.c(94,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ExamBAPTriangles.vcxproj -> D:\otter\VSProject\ExamBAPTriangles\x64\Debug\ExamBAPTriangles.exe
